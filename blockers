@@ -1,0 +1,37 @@
+2023-02-10 17:32:36 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 17:32:37 Traceback (most recent call last):
+2023-02-10 17:32:37   File "tables/database_session.py", line 36, in <module>
+2023-02-10 17:32:37     raise Exception("Database not connected")
+2023-02-10 17:32:37 Exception: Database not connected
+2023-02-10 17:32:43 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 17:32:44 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 17:32:45 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 17:32:46 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 17:32:47 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 17:32:48 Traceback (most recent call last):
+2023-02-10 17:32:48   File "tables/database_session.py", line 36, in <module>
+2023-02-10 17:32:48     raise Exception("Database not connected")
+2023-02-10 17:32:48 Exception: Database not connected
+2023-02-10 22:29:51 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:29:52 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:29:53 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:29:54 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:29:55 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:29:56 Traceback (most recent call last):
+2023-02-10 22:29:56   File "tables/database_session.py", line 36, in <module>
+2023-02-10 22:29:56     raise Exception("Database not connected")
+2023-02-10 22:29:56 Exception: Database not connected
+2023-02-10 22:29:58 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:29:59 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:30:00 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:30:01 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:30:02 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:30:03 Traceback (most recent call last):
+2023-02-10 22:30:03   File "tables/database_session.py", line 36, in <module>
+2023-02-10 22:30:03     raise Exception("Database not connected")
+2023-02-10 22:30:03 Exception: Database not connected
+2023-02-10 22:30:06 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:30:07 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:30:08 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:30:09 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
+2023-02-10 22:30:10 Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1')
